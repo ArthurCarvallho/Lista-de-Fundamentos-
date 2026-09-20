@@ -1,4 +1,4 @@
-#Recebendo dados
+#1 Recebendo dados
 
 nome = input("Digite seu nome?")
 idade = int(input("Digite sua idade?"))

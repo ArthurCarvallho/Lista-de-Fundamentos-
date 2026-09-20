@@ -1,4 +1,4 @@
-# Calculadora de idade
+#2 Calculadora de idade
 
 nascimento = int(input("Qual ano voce nasceu?"))
 idade = 2026 - nascimento

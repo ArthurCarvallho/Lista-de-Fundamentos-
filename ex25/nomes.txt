@@ -1,0 +1,3 @@
+ArthurPaulo& C:/Users/arthu_43z9um1/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/arthu_43z9um1/OneDrive/Desktop/Programas/Exercicios Fundamentos/ex25/ex25.py"
+Arthur
+Paulo
